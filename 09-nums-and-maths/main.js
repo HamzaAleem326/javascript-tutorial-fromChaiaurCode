@@ -26,3 +26,4 @@ console.log(date.toLocaleString('en-US', {
 }));
 
 
+// Math Object
